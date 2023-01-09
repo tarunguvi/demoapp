@@ -16,7 +16,7 @@ function App() {
       <div style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column'}}>
         <h1 style={{color: 'green', fontSize: 100}}>Welcome to Guvi</h1>
         <h2 style={{fontSize: 40}}>Learn to Deploy your React App to Firebase, Vercel, Netlify</h2>
-        <h2 style={{fontSize: 70}}>You are now seeing me on Vercel website 😎 </h2>
+        <h2 style={{fontSize: 70}}>You are now seeing me on Netlify website 😎 </h2>
       </div>
     </div>
   );
